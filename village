@@ -2,7 +2,7 @@ var multiConfig = {
     "THISROOM": "village",
     "locationColor": "red",
     "locationBackground": "green",
-    "currentView": "",
+    "currentView": "town hall",
     "viewList": ["town hall", "park", "coffee shop", "restaurant", "tavern", "hotel", "bakery", "book store", "art gallery", "apartments", "butcher shop", "clothing store", "church", "graveyard", "antique", "tarot", "apothecary", "police", "post office", "pet", "movie", "candy", "grocery", "hospital", "doctor", "jewelry", "hair dresser", "car shop", "furniture", "stable"]
 };
 
