@@ -52,7 +52,7 @@ var roomstuff = {"rooms":{
 
 "doctor":{"rName":"doctor","backgroundImage":"https://soi-village.hyperchat.com/insidedocoffice.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-village.hyperchat.com/outsidedocoffice.jpg><br>Welcome to the Doctors Office<br></center>","roombottom":""},
 
-"jewlery":{"rName":"jewlery","backgroundImage":"https://soi-village.hyperchat.com/jewleryshopinsideback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-village.hyperchat.com/jewleryshopoutside.jpg><br>Welcome to the Jewlery Shop<br></center>","roombottom":""},
+"jewelry":{"rName":"jewelry","backgroundImage":"https://soi-village.hyperchat.com/jewleryshopinsideback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-village.hyperchat.com/jewleryshopoutside.jpg><br>Welcome to the jewelry Shop<br></center>","roombottom":""},
 
 "hair dresser":{"rName":"hair dresser","backgroundImage":"https://soi-village.hyperchat.com/hairdressingshopinside.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-village.hyperchat.com/hairdressingshopoutside.jpg><br>Welcome to the Hair Dressers<br></center>","roombottom":""},
 
