@@ -1,4 +1,4 @@
-var multiConfig = {"THISROOM":"village@soi","locationColor":"yellow","locationBackground":"green","currentView":"","viewList":["town","park","coffee","restaurant","bakery","tavern","hotel","book","art"]};
+var multiConfig = {"THISROOM":"village@soi","locationColor":"yellow","locationBackground":"green","currentView":"","viewList":["town","park","coffee","restaurant","bakery","tavern","hotel","book","art","apartment","butcher","clothing","church","graveyard","antique","tarot","apothecary","police","post","pet","movie","candy","grocery","hospital","doctor","jewelry","hair","car","furniture","stable"],"defaultView":"town"}
 
 var roomstuff = {"rooms":{
 
